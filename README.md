@@ -19,20 +19,20 @@
 
 
 ## Other [Magento 2 Extensions](https://www.ulmod.com/magento2-extensions.html) by Ulmod
-### Magento 2 Promotion
+### Magento 2 Promotion Extensions
   * [Magento 2 Multiple Coupons](https://www.ulmod.com/multiple-coupons-for-magento-2.html)
   * [Magento 2 Daily Deal](https://www.ulmod.com/daily-deal-for-magento-2.html)
   * [Magento 2 Notification Bar Pro](https://www.ulmod.com/notification-bar-for-magento-2.html)
   * [Magento 2 Promotion Banners](https://www.ulmod.com/promotion-banners-for-magento-2.html)
   * [Magento 2 Sale Category](https://www.ulmod.com/sale-category-for-magento-2.html)
  
-### Magento 2 SEO
+### Magento 2 SEO Extensions
   * [Magento 2 XML Sitemap Splitter](https://www.ulmod.com/magento-2-xml-sitemap-splitter.html)
   * [Magento 2 Advanced Breadcrumbs](https://www.ulmod.com/magento-2-advanced-breadcrumb-extension.html)
   * [Magento 2 Canonical Url](https://www.ulmod.com/magento-2-canonical-url-extension.html)
   * [Magento 2 HTML Sitemap](https://www.ulmod.com/magento-2-html-sitemap-extension.html)
 
-### Magento 2 Export & Import
+### Magento 2 Export & Import Extensions
   * [Magento 2 Orders Export and Import](https://www.ulmod.com/orders-export-and-import-for-magento-2.html)
   * [Magento 2 Coupon Codes Import](https://www.ulmod.com/coupon-codes-import-for-magento-2.html)
   * [Magento 2 CMS Pages Export & Import](https://www.ulmod.com/cms-export-and-import-for-magento-2.html)
@@ -41,7 +41,7 @@
   * [Magento 2 URL Rewrites Export & Import](https://www.ulmod.com/url-rewrites-export-import-for-magento-2.html")  
   * [Magento 2 Wishlist Items Export & Import](https://www.ulmod.com/wishlist-items-export-import-for-magento-2.html)
 
-### Magento 2 Content, UX, Admins
+### Magento 2 Content, User Experience, Navigation, Admins Extensions
   * [Magento 2 Tier Price Table](https://www.ulmod.com/tier-price-table-for-magento-2.html)
   * [Magento 2 Edit Cart](https://www.ulmod.com/edit-cart-for-magento-2.html)
   * [Magento 2 Layered Navigation](https://www.ulmod.com/magento-2-layered-navigation-extension.html)
